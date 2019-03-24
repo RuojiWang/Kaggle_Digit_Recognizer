@@ -95,7 +95,7 @@ X_train = X_train.values.reshape(X_train.shape[0],1,28,28).astype('float32')
 X_test = X_test.values.reshape(X_test.shape[0],1,28,28).astype('float32')
 Y_train = Y_train.values.reshape(Y_train.shape[0])
 
-#use a classical neural network architecture
+#use a classical neural network structure
 class ClassifierModule(nn.Module):
     def __init__(self):
         super(ClassifierModule, self).__init__()
