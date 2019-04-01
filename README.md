@@ -1,6 +1,6 @@
 # Kaggle_Digit_Recognizer
 
-* Kaggle_Digit_Recognizer is a semi-automatic deep learning experiment code for kaggle digit recognizer competition, which is a good example for beginners.
+* Kaggle_Digit_Recognizer is a semi-automatic deep learning experiment code for kaggle digit recognizer competition, which is a good example for beginners with image recognition problems.
 * Once you determine the structure of the network, hyperparameters optimization will help you find the best hyperparameters, which can save you lots of time. 
 * Besides determining selection of hyperparameters for optimization, you only work is a little feature engineering like feature scale or little code change like file path. 
 * Just enjoy deep learning and build your solution based on Kaggle_Digit_Recognizer for other competitions.
